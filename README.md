@@ -10,3 +10,5 @@ The classification goal is to predict whether the patient has a 10-year risk of 
   2. Precision - Naive Bayes Classifier
   3. F1 Score - Logistic Regression, XGBoost
   4. Accuracy - Naive Bayes Classifier
+
+# Data Set: https://drive.google.com/file/d/1si1Y8UpfRc8T-LGlP-NZivorWP6DitgO/view?usp=sharing
